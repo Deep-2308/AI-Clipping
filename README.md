@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 AI Clipping & Professional Shorts Editing Pipeline Designd and made By DEEP2308
+# 🎬 AI Clipping & Professional Shorts Editing Pipeline Designd and made By Deep-2308
 
 ### From long-form video → AI-understood → intelligently edited → professional short-form content
 
