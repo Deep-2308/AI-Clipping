@@ -1,0 +1,66 @@
+# =========================
+# Python
+# =========================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Input / source media
+# =========================
+input/*
+!input/.gitkeep
+
+# =========================
+# Generated output
+# =========================
+output/*
+!output/.gitkeep
+
+# =========================
+# Debug / temporary files
+# =========================
+debug_frames/
+*.tmp
+*.temp
+*.log
+
+# =========================
+# Video / audio files
+# =========================
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.m4a
+
+# =========================
+# Large ML model files
+# =========================
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
